@@ -196,10 +196,8 @@ Social_Media_Analytics/
 │   └── social_media_data.csv
 ├── images/
 │   └── visualizations/
-└── requirements.txt
-```
 
-> Update the filenames above if your actual GitHub files use different names.
+
 
 ---
 
